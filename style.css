@@ -1,11 +1,15 @@
 body{
     font-family: 'Segoe UI';
-    background-color: rgba(59, 44, 44, 0.795);
+    background-color: gray;
 }
 #nome-usuário { 
     font-weight: bold; 
  }
  .texto-inglês{ 
     font-style: italic;
-  }
+}
+  h2{
+    color:orange;
+}
+
   
