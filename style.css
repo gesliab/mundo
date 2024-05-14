@@ -13,5 +13,12 @@ body{
   h2{
     color:orange;
 }
+header {
+    border-bottom: 1px solid grey;
+}
+footer {
+    border-top: 1px solid grey;
+}
+
 
   
