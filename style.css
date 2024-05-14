@@ -1,6 +1,7 @@
 body{
     font-family: 'Segoe UI';
     background-color: gray;
+    text-align: center;
 }
 #nome-usuário { 
     font-weight: bold; 
